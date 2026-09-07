@@ -1,3 +1,9 @@
+<div class="filament-hidden">
+
+![Laravel GA4](https://raw.githubusercontent.com/jeffersongoncalves/laravel-ga4/main/banners/laravel-ga4.png)
+
+</div>
+
 # Laravel GA4
 
 [![Tests](https://github.com/jeffersongoncalves/laravel-ga4/actions/workflows/run-tests.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-ga4/actions/workflows/run-tests.yml)
