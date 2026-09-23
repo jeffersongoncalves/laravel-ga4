@@ -6,7 +6,7 @@
 
 # Laravel GA4
 
-[![Tests](https://github.com/jeffersongoncalves/laravel-ga4/actions/workflows/run-tests.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-ga4/actions/workflows/run-tests.yml)
+[![Tests](https://github.com/jeffersongoncalves/laravel-ga4/actions/workflows/tests.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-ga4/actions/workflows/tests.yml)
 [![PHPStan](https://github.com/jeffersongoncalves/laravel-ga4/actions/workflows/phpstan.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-ga4/actions/workflows/phpstan.yml)
 [![Code Style](https://github.com/jeffersongoncalves/laravel-ga4/actions/workflows/fix-php-code-style-issues.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-ga4/actions/workflows/fix-php-code-style-issues.yml)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ga4.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/laravel-ga4)
